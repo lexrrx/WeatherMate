@@ -38,7 +38,7 @@ WeatherMate is an Android application designed to provide real-time weather upda
 - Stores service running state in shared preferences.
 
 #### Lifecycle:
-- Runs continuously in the background to update weather data.
+- Runs on demand in the foreground and/or background to update weather data.
 - Manages notification creation and updates.
 
 ## Usage
