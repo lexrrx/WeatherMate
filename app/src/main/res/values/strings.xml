@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherMate</string>
+    <string name="track_me">Track me</string>
+    <string name="stop_tracking_me">Stop tracking me</string>
+    <string name="location_latitude_longitude">Location: Latitude %1$s, Longitude %2$s</string>
+    <string name="elevation_meters">Elevation: %1$s meters</string>
+    <string name="daily_weather_data">Daily Weather Data:</string>
+    <string name="min_c_max_c">%1$s: Min : %2$s°C, Max : %3$s°C</string>
+    <string name="enable_tracking_to_display_data">Enable tracking to display data</string>
+    <string name="notification_channel_title">WeatherMate Updates</string>
+    <string name="notification_channel_description">Here you get real time updates for the weather in your location</string>
+    <string name="weather_service_notification_title">Weather Service</string>
+    <string name="notification_text">Weather Update: Max temperature for Location %1$s: %2$s %3$s is %4$s°C</string>
+    <string name="starting_weather_service_notification_placeholder">Starting Weather Service...</string>
+</resources>
